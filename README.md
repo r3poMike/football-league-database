@@ -37,3 +37,4 @@ This project uses PostgreSQL to model a simplified American football league data
 ## 📸 ERD
 
 ![ERD](ERD.png)
+# football-league-database
